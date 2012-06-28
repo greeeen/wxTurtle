@@ -1,17 +1,21 @@
-# wxTurtle
+wxTurtle
+========
 
-## Sites
-* http://greeeen.github.com/wxTurtle/ (home page)
-* https://github.com/greeeen/wxTurtle/ (GIT repository)
+Sites
+-----
+  * http://greeeen.github.com/wxTurtle/ (home page)
+  * https://github.com/greeeen/wxTurtle/ (GIT repository)
 
-## Required
+Required
+--------
 python and wxPython:
 
-* python http://www.python.org/
-* wxPython http://pypi.python.org/pypi/wxPython
+  * python http://www.python.org/
+  * wxPython http://pypi.python.org/pypi/wxPython
 
 (Turtle graphics module is included in the standard python modules.)
 
-## Relations
+Relations
+---------
 
-* wxOsciloDraw http://greeeen.github.com/wxOsciloDraw/
+  * wxOsciloDraw http://greeeen.github.com/wxOsciloDraw/
