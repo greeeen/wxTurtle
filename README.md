@@ -7,10 +7,9 @@
 ## Required
 python and wxPython:
 
-* python http://www.python.org/
-* wxPython http://pypi.python.org/pypi/wxPython
-
+  * python http://www.python.org/
+  * wxPython http://pypi.python.org/pypi/wxPython
 
 ## Relations
 
-* wxOsciloDraw http://greeeen.github.com/wxOsciloDraw/
+  * wxOsciloDraw http://greeeen.github.com/wxOsciloDraw/
